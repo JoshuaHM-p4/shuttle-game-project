@@ -27,7 +27,7 @@ Space Shuttle Endeavor is a Pygame-based game where players control a space shut
 # Run Instructions
 - Run the file launcher.py to start the program.
 
-# Install instructions (Itch.io Release) 
+# Install instructions from Release: [Itch.io](https://papesjoshers.itch.io/space-shuttle-endeavor).
 1. Download the game
 2. Extract the .rar file
 3. Move or open dist and open shuttle.exe
